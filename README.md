@@ -25,45 +25,45 @@ The theme of my application was 'Nutrition' and I chose to create the following 
 - Allowing users to save API responses to the database for future reference
 
 ### Back End Stories
-Link1: link to first Back End Story within README file 
-Link2: link to second Back End Story within README file
+[Generating Models](#generating-database-models)
+[Creating Table Display Functionality](#creating-database-table-display-functionality)
 .…etc
 
-1Generating Database Models 
+#Generating Database Models 
 
 Created models for the user and nutritional path
 
 Screenshot
 
-2Creating Database Table Display functionality
+#Creating Database Table Display functionality
 
 Create the views and templates required to render the existing user and nutrition path tables in the database
 
 Screenshot
 GIF
 
-3Creating Edit Functionality for a specific table entry
+#Creating Edit Functionality for a specific table entry
 
 Created the  views and templates needed to view the full details of a given table entry and edit those details 
  
 Screenshot
 GIF
 
-4Creating Delete Functionality for a specific table entry
+#Creating Delete Functionality for a specific table entry
 
 Created the views and templates required to confirm a record deletion, perform the delete on a record, and redirect the user back to the database table display page
 
 Screenshot
 GIF
 
-5Creating functionality to display scraped data 
+#Creating functionality to display scraped data 
 
 Implemented the BeautifulSoup library in targeting specific HTML elements on a nutritional supplement webpage. Created a view that would strip the markup language from the scraped data and render it via table format on a template. Incorporated a page refresh button to allow for latest data from webpage to be displayed.
 
 Screenshot
 GIF
 
-6Create functionality to access API and view the response 
+#Create functionality to access API and view the response 
 
 Created a view that was able to send an API request, along with required API keys and credentials, to the Nutritionix API. 
 Further, it was able to take the response--which was a messy JSON dictionary--and filter it for only a select few KVPs that I needed. I then made a template to allow users to make queries, and then I connected this template to the same view so that a query would be included in the API request. 
@@ -72,7 +72,7 @@ I made another template that served to unpack the data in a neat tabular format 
 Screenshot
 GIF
 
-7Enabling the saving of API responses to our database 
+#Enabling the saving of API responses to our database 
 
 I created a modified version of the above view that would not only render the response to a user query, but would also automatically save any query, along with the targeted response data, to the database for future reference.
 

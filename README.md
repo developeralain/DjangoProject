@@ -25,15 +25,18 @@ The theme of my application was 'Nutrition' and I chose to create the following 
 - Allowing users to save API responses to the database for future reference
 
 ### Back End Stories
-[Generating Models](#generating-database-models)
-[Displaying Tables](#creating-database-table-display-functionality)
-[Editing a Table Entry](#creating-edit-functionality-for-a-specific-table-entry)
-[Deleting a Table Entry](#creating-delete-functionality-for-a-specific-table-entry)
-[Displaying Scraped Data](#creating-functionality-to-display-scraped-data)
-[Display API Response](#create-functionality-to-access-API-and-view-the-response)
-[Save API Response](#enabling-the-saving-of-API-responses-to-our-database)
+- [Generating Models](#generating-database-models)
+- [Displaying Tables](#creating-database-table-display-functionality)
+- [Editing a Table Entry](#creating-edit-functionality-for-a-specific-table-entry)
+- [Deleting a Table Entry](#creating-delete-functionality-for-a-specific-table-entry)
+- [Displaying Scraped Data](#creating-functionality-to-display-scraped-data)
+- [Display API Response](#create-functionality-to-access-API-and-view-the-response)
+- [Save API Response](#enabling-the-saving-of-API-responses-to-our-database)
 
-[Skip to Front End Stories](#front-end-stories)
+### Other Sections Navigation
+- [Skip to Front End Stories](#front-end-stories)
+- [Skip to Other Skills Learned](#other-skills-learned)
+
 
 #### Generating Database Models 
 
@@ -86,7 +89,7 @@ Screenshot
 GIF
 
 ### Front End Stories
-1Bootstrap4 and Jquery
+#### Bootstrap4 and Jquery
 
 Leveraged Bootstrap4 and Jquery to create the application theme and aesthetics. I kept things simple and clean, while leaving special effects and eye-catchers to a minimum. 
 

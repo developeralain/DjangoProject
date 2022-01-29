@@ -26,9 +26,14 @@ The theme of my application was 'Nutrition' and I chose to create the following 
 
 ### Back End Stories
 [Generating Models](#generating-database-models)
-[Creating Table Display Functionality](#creating-database-table-display-functionality)
-[Creating Edit Functionality for Table Entry](#creating-edit-functionality-for-a-specific-table-entry)
-[Creating Delete Functionality for a Table Entry](#creating-delete-functionality-for-a-specific-table-entry)
+[Displaying Tables](#creating-database-table-display-functionality)
+[Editing a Table Entry](#creating-edit-functionality-for-a-specific-table-entry)
+[Deleting a Table Entry](#creating-delete-functionality-for-a-specific-table-entry)
+[Displaying Scraped Data](#creating-functionality-to-display-scraped-data)
+[Display API Response](#create-functionality-to-access-API-and-view-the-response)
+[Save API Response](#enabling-the-saving-of-API-responses-to-our-database)
+
+[Skip to Front End Stories](#front-end-stories)
 
 #### Generating Database Models 
 

@@ -3,8 +3,8 @@ My first application and project, created in 2 weeks during the live project por
 # Live Project
 ### Introduction
 
-*Please note: you may view the application in action, as well as hear my narration of its features, by clicking the following YouTube link to my video:
-[Click Here for Video Demonstration](https://www.youtube.com/watch?v=yhTrgGjiwh0)*
+*Please note: you may view the application in action, as well as hear my narration of its features, by clicking the following YouTube image link to my video:*
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yhTrgGjiwh0
 " target="_blank"><img src="http://img.youtube.com/vi/yhTrgGjiwh0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

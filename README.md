@@ -5,7 +5,9 @@ My first application and project, created in 2 weeks during the live project por
 
 *Please note: you may view the application in action, as well as hear my narration of its features, by clicking the following YouTube link to my video:
 [Click Here for Video Demonstration](https://www.youtube.com/watch?v=yhTrgGjiwh0)*
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yhTrgGjiwh0
+" target="_blank"><img src="http://img.youtube.com/vi/yhTrgGjiwh0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 For the last two weeks of my time at The Tech Academy, I worked alongside my peers in developing a full stack web application using the Django Framework and Python. 
 
@@ -77,7 +79,7 @@ I created a modified version of the above view that would not only render the re
 Screenshot
 GIF
 
-H3: Front End Stories
+### Front End Stories
 1Bootstrap4 and Jquery
 
 Leveraged Bootstrap4 and Jquery to create the application theme and aesthetics. I kept things simple and clean, while leaving special effects and eye-catchers to a minimum. 
@@ -85,7 +87,7 @@ Leveraged Bootstrap4 and Jquery to create the application theme and aesthetics. 
 Screenshot
 GIF
 
-H3: Other Skills Learned
+### Other Skills Learned
 
 Throughout this live project experience I was able to acquire and develop many non-coding skills that are yet important to the 
 development process. These included such things as:

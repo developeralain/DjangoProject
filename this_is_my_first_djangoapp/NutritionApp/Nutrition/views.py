@@ -299,9 +299,10 @@ def save_nutritionix_nutrients_api(request):
         query = request.GET['user_query']
         # requests.post accepts 'headers' as an argument.
         # we provide api credentials, as specified in the API documentation, in 'headers'
+        #NOTE: you will need to provide your own app-id and key in the below fields to be able to use this app feature
         headers = {
-            'x-app-id': '212b5e6c',
-            'x-app-key': 'bcfd3f08c16996662783976a3b37793a',
+            'x-app-id': 'INSERT_APP_ID_HERE',
+            'x-app-key': 'INSERT_API_KEY_HERE',
             # remote-user-id is used for billing purposes, but this isn't relevant so
             # api told us to use '0' as a value to disregard.
             'x-remote-user-id': '0'
